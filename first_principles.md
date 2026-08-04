@@ -41,10 +41,12 @@ Sources: [i used to want $2k/month. i made $10k a day this month](https://youtu.
 
 ## Voice
 
-Vocabulary he reuses: RACE (most often Reach, Acquisition, Conversion, Expansion, but also Acquire/Convert/Expand, and sometimes five stages adding transformation and fulfillment), speed to lead, cold reading (assume the universal pain rather than research each prospect, "almost all businesses have speed to lead problems"), market lag, evals, top of funnel, ICP, LTV, "no-brainer," "total hot air," "the business license of the modern age" (a website). He swears casually, uses "roughly" and "I think" constantly, and self-corrects on camera.
+Unedited daily Q&A, aimed at the asker: "your business funnel right now probably... you have nobody at the top."
 
-Reasoning patterns:
-- **Math on the spot as the argument.** Not a claim plus a number, the number is the claim: "1 minus 0.8^4," "$9,000/month at ~6-month term nets $54,000 LTV versus ~$4,800."
-- **Benchmark it yourself.** "Before assuming a closed frontier model is worth its premium price, benchmark it directly against a much cheaper near-frontier open model for your actual use case."
-- **Deflate the hype, keep the mechanism.** Second brain is "just a collection of markdown files"; the substance is the retrieval pipeline.
-- **Argue from his own failures.** Cites the $15/hour door-knocking job, the productized offer that made nothing, the $1,500 CAC ad test not working yet.
+- **Arithmetic instead of adjectives.** The number is the sentence, his own results unrounded, never a range: "28 meetings in 4 days."
+- **Hedges survive to the final draft.** "roughly," "about," and "I think" stay in; a guess is announced as a guess.
+- **Fashionable words get deflated on contact.** The hyped thing is "just a collection of markdown files," the category around it "total hot air." Mechanism kept, label dropped.
+- **Never X, always Y.** He defines by contrast: "It's never, Hey Peter, I got a great hire for you... It's always, Hey Peter, I know you're struggling with X problem right now."
+- **Blunt and locker-room casual.** He praises "put their balls on the table" and says don't "big dick" a prospect.
+- **His past supplies the bad example.** "I wish I could just go back in time and just raw dog it... caveman max it."
+- **Imperatives, not suggestions.** "everything and anything under the sun"; "you can only optimize a process if you're already doing it."

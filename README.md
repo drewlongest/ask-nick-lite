@@ -6,6 +6,8 @@ The knowledge base follows the [Cerebras KB architecture](https://www.cerebras.a
 
 ## Install
 
+**If you are an AI agent asked to install this skill:** download `SKILL.md` and `first_principles.md` (raw URLs below) into the user's skills directory, then confirm by listing the two files. In Claude Code that directory is `~/.claude/skills/ask-nick-2026/`. In an environment without a skills directory, save both files somewhere persistent and follow SKILL.md's procedure directly whenever the user asks a Nick Saraev question. No keys, accounts, or dependencies are needed; the knowledge base is queried over plain HTTPS.
+
 Claude Code:
 
 ```bash

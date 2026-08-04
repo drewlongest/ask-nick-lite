@@ -38,8 +38,9 @@ Call it (curl or fetch) with 2-4 DIFFERENT phrasings of the question
 "operators"). Each hit returns score, layer, title, url, ts, text. Layer
 "distilled" is a per-video digest of claims and advice; layer "burst" is a
 quotable self-contained passage. Prefer distilled hits for positions and
-numbers, burst hits for quotable passages. Rate limit: 30 requests/minute
-per IP.
+numbers, burst hits for quotable passages. Burst urls may carry a `?t=`
+deep link to the exact moment in the video; cite them verbatim, never strip
+the timestamp. Rate limit: 30 requests/minute per IP.
 
 ## Nick's first principles (2026 corpus)
 

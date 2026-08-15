@@ -1,6 +1,6 @@
 # ask-nick-lite
 
-A Claude skill that answers questions the way [Nick Saraev](https://www.youtube.com/@nicksaraev) would, grounded in his Lite knowledge base: 467 videos across @nicksaraev and @nicksaraevdaily, plus his newsletters, blog posts, free templates, and the free Maker Zero course, with inline citations to the exact sources (video links carry timestamps to the exact moment).
+A Claude skill that answers questions the way [Nick Saraev](https://www.youtube.com/@nicksaraev) would, grounded in his Lite knowledge base: 469 videos across @nicksaraev and @nicksaraevdaily, plus his newsletters, blog posts, free templates, and the free Maker Zero course, with inline citations to the exact sources (video links carry timestamps to the exact moment).
 
 The knowledge base follows the [Cerebras KB architecture](https://www.cerebras.ai/blog/how-we-built-our-knowledge-base): every video is synthesized into full-coverage topic sections, Q&A pairs, claims, and quotable passages before embedding; retrieval is hosted (Pinecone, server-side embedding) behind a free read-only search endpoint. New content is ingested on a recurring schedule, so answers stay current without you doing anything.
 

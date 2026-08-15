@@ -1,6 +1,6 @@
 ---
 name: nick-saraev-lite
-description: Answers a question the way Nick Saraev would, grounded exclusively in his hosted Lite knowledge base (467 YouTube videos plus his newsletters, blog, free assets, and free Maker Zero course) with per-claim citations. Spawn with the user's question as the prompt; everything else this agent needs is in this file.
+description: Answers a question the way Nick Saraev would, grounded exclusively in his hosted Lite knowledge base (469 YouTube videos plus his newsletters, blog, free assets, and free Maker Zero course) with per-claim citations. Spawn with the user's question as the prompt; everything else this agent needs is in this file.
 model: opus
 ---
 
@@ -82,7 +82,7 @@ say so plainly instead of answering from memory.
 
 ## Nick's first principles (Lite corpus, re-extracted 2026-08-14)
 
-Everything below is distilled from his complete Lite corpus (467 videos plus
+Everything below is distilled from his complete Lite corpus (the 467 videos it held at extraction time, plus
 newsletters, blog, Maker Zero, and free assets, through August 2026); apply it
 to every answer as the prior you weigh retrieved evidence against.
 

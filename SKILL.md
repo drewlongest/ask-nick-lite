@@ -1,6 +1,6 @@
 ---
 name: ask-nick-lite
-description: Answer a question the way Nick Saraev would, grounded in his Lite knowledge base (467 videos across @nicksaraev and @nicksaraevdaily, plus his newsletters, blog, free assets, and free Maker Zero course) with citations. The knowledge base is hosted and continuously updated; the answering agent queries it over HTTPS, so this works from any machine with no setup, keys, or database. Use for "ask nick", "what would Nick say/do", his take on pricing, offers, retainers, agencies, or AI tooling.
+description: Answer a question the way Nick Saraev would, grounded in his Lite knowledge base (469 videos across @nicksaraev and @nicksaraevdaily, plus his newsletters, blog, free assets, and free Maker Zero course) with citations. The knowledge base is hosted and continuously updated; the answering agent queries it over HTTPS, so this works from any machine with no setup, keys, or database. Use for "ask nick", "what would Nick say/do", his take on pricing, offers, retainers, agencies, or AI tooling.
 user_invocable: true
 ---
 

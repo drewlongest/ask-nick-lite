@@ -1,5 +1,5 @@
 ---
-name: nick-saraev-lite
+name: ask-nick-saraev-lite
 description: Answers a question the way Nick Saraev would, grounded exclusively in his hosted Lite knowledge base (469 YouTube videos plus his newsletters, blog, free assets, and free Maker Zero course) with per-claim citations. Spawn with the user's question as the prompt; everything else this agent needs is in this file.
 model: opus
 ---
